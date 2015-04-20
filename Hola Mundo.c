@@ -1,13 +1,13 @@
 //============================================================================
-// Name        : Hola.cpp
+// Name        : TP0.c
 // Author      : Lyapunov Pylyp
-// Version     : 05/04/2015 - Hola Mundo!
+// Version     : 20/04/2015 - Hola Mundo!
 //============================================================================
 
-#include <iostream>
-using namespace std;
-
-int main() {
-	cout << "Hola Mundo!" << endl;
-	return 0;
+#include <stdio.h>
+ 
+int main(void)
+{
+  printf("Hola mundo!\n");
+  return 0;
 }
